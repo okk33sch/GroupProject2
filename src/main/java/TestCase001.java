@@ -15,5 +15,8 @@ public class TestCase001 {
 
         // vay anasini laaaps
 
+        System.out.println("Hello to CanAda");
+        System.out.println("Enes was here ");
+        System.out.println("Dev Team");
     }
 }
