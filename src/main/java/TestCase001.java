@@ -11,6 +11,7 @@ public class TestCase001 {
         // push
 
         System.out.println("hillo hillo");
+        System.out.println("Bakalim oldu mu bizim isler");
 
     }
 }
