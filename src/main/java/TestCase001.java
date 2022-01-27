@@ -8,5 +8,6 @@ public class TestCase001 {
         //oashasjfboq 3ihe
         //laknfpa
         System.out.println("bu defer olsun");
+        System.out.println("ahanda yeni bise ekledim enes abi");
     }
 }
