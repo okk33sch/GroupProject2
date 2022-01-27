@@ -13,5 +13,7 @@ public class TestCase001 {
         System.out.println("hillo hillo");
         System.out.println("Bakalim oldu mu bizim isler");
 
+        // vay anasini
+
     }
 }
