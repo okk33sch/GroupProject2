@@ -10,5 +10,7 @@ public class TestCase001 {
 
         // push
 
+        System.out.println("hillo hillo");
+
     }
 }
