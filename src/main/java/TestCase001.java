@@ -7,5 +7,6 @@ public class TestCase001 {
         //ljasbfsa
         //oashasjfboq 3ihe
         //laknfpa
+        System.out.println("bu defer olsun");
     }
 }
