@@ -10,5 +10,6 @@ public class TestCase001 {
         System.out.println("bu defer olsun");
         System.out.println("ahanda yeni bise ekledim enes abi");
         System.out.println("yeter bit artik");
+        System.out.println("dahda gasik");
     }
 }
